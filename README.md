@@ -1,6 +1,22 @@
-[TOC]
+- [一些建议]()
+- [如何提问](#如何提问)
+  
+- [如何学习一门新技能](#如何学习一门新技能)
+  
+- [如何百度](#如何百度)
+  
+- [开始你的Github](#开始你的Github)
+  
+- [来点Markdown](#来点Markdown)
+  
+- [一些需要提前安装的或推荐东西](#一些需要提前安装的或推荐东西)
+  
+- [关于周总结](#关于周总结)
+  
 
-### 如何提问
+
+
+### 【如何提问
 
 强烈推荐大家先去看看这个[**How To Ask Questions The Smart Way** 提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
 
