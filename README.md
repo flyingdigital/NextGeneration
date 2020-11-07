@@ -16,7 +16,7 @@
 
 
 
-### 【如何提问
+### 如何提问
 
 强烈推荐大家先去看看这个[**How To Ask Questions The Smart Way** 提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
 
